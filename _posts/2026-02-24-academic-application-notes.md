@@ -67,7 +67,6 @@ The following commands were used to publish this article:
 
 ```bash
 $ git add .
-$ git commit -m "first example"
 $ git push origin mai
 $ git push origin main
 $ git status
