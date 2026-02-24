@@ -32,7 +32,7 @@ plugins:
 author:
   name: "Huahan"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Wireless Researcher | MATLAB | USRP | Notes"
+  bio: "Wireless Researcher"
 
 defaults:
   - scope:
