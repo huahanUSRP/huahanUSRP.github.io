@@ -17,10 +17,10 @@ The purpose is to clarify structure, highlight strengths, and refine long-term p
 
 ### 1.1 Core Principles
 
-- Emphasize independence
-- Show research vision (3–5 years plan)
-- Demonstrate impact
-- Align with department strategy
+- Emphasize independence  
+- Show research vision (3–5 years plan)  
+- Demonstrate impact  
+- Align with department strategy  
 
 ### 1.2 Structure Suggestion
 
@@ -35,10 +35,10 @@ The purpose is to clarify structure, highlight strengths, and refine long-term p
 
 Key points:
 
-- Teaching philosophy
-- Experience (modules, supervision, mentoring)
-- Innovation (labs, project-based learning, digital tools)
-- Future teaching plan
+- Teaching philosophy  
+- Experience (modules, supervision, mentoring)  
+- Innovation (labs, project-based learning, digital tools)  
+- Future teaching plan  
 
 ---
 
@@ -46,9 +46,9 @@ Key points:
 
 Things I need to improve:
 
-- Stronger research narrative
-- Clearer funding targets
-- More explicit impact pathway
+- Stronger research narrative  
+- Clearer funding targets  
+- More explicit impact pathway  
 
 ---
 
@@ -59,6 +59,11 @@ It is about clarifying academic identity and long-term positioning.
 
 This note will be updated as I refine the materials.
 
+---
+
+## Appendix: Deployment Commands
+
+The following commands were used to publish this article:
 
 ```bash
 $ git add .
@@ -69,4 +74,3 @@ $ git status
 $ git log
 $ git push origin
 $ history
-```
