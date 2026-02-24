@@ -1,6 +1,6 @@
 # Basic site settings
 title: "Huahan Notes"
-email: ""
+email: "lu.huahan@gmail"
 description: "Personal application notes and research notes."
 url: "https://huahanUSRP.github.io"
 baseurl: ""
@@ -30,7 +30,7 @@ plugins:
 
 # Author (simple version)
 author:
-  name: "Huhan"
+  name: "Huahan"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Wireless Researcher | MATLAB | USRP | Notes"
 
