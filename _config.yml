@@ -31,7 +31,7 @@ plugins:
 # Author (simple version)
 author:
   name: "Huahan"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/name.jpeg"
   bio: "Wireless Researcher"
 
 defaults:
