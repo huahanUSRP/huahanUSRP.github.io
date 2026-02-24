@@ -65,7 +65,7 @@ This note will be updated as I refine the materials.
 
 The following commands were used to publish this article:
 
-```bash
+```console
 $ git add .
 $ git push origin mai
 $ git push origin main
