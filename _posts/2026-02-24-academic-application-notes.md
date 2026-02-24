@@ -58,3 +58,15 @@ Preparing an academic application is not just about writing documents.
 It is about clarifying academic identity and long-term positioning.
 
 This note will be updated as I refine the materials.
+
+
+```bash
+$ git add .
+$ git commit -m "first example"
+$ git push origin mai
+$ git push origin main
+$ git status
+$ git log
+$ git push origin
+$ history
+```
