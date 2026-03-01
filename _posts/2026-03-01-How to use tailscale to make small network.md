@@ -9,40 +9,43 @@ excerpt: "Key points and structure ideas for preparing an academic job applicati
 
 ## Windows PC/laptop
 
-### 1 Install tailscale
+### Install tailscale
 Open website: https://tailscale.com/download
 Choose windows and download setup file
 Install the software
 Login with github account and click "connect"
 The PC/laptop has been added to the network
 
-### 2 How to use
+### How to use tailscale
 control other laptop/PC with powershell, input "powershell" from WIN+R
 
 ## Linux PC/laptop
 
-### 1 Install tailscale
+### Install tailscale
 Open website: https://tailscale.com/download
 Choose linux and use the command to install tailscale
-         curl -fsSL https://tailscale.com/install.sh | sh
+    
+    curl -fsSL https://tailscale.com/install.sh | sh
 
-### 2 Start tailscale
+### Start tailscale
 Start the tailscale
+         
          sudo tailscale up
-Permenant tailscale enable
+         Permenant tailscale enable
          sudo systemctl enable tailscaled
 
-### 3 Install ssh
+### Install ssh
          sudo apt update
          sudo apt install openssh-server
 
-## 3 How to acces another laptop/PC
-### 1 check ip address
+## How to acces another laptop/PC
+### check ip address
          tailscale status
-### 2 ssh target PC/laptop
+### ssh target PC/laptop
          ssh username@ipaddress
-      Example:
+Example:
+         
          ssh otfs1@100.77.195.126
-      The terminal will show the target PC/laptop home folder
+The terminal will show the target PC/laptop home folder
 
  
