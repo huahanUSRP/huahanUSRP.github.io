@@ -1,9 +1,8 @@
 ---
 title: "How to use tailscale to make small network"
 date: 2026-03-01
-categories: [Academic, Career]
-tags: [Job Application, Research Statement, Teaching Statement]
-excerpt: "Key points and structure ideas for preparing an academic job application."
+categories: [Academic]
+tags: [Notes]
 ---
 
 
